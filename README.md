@@ -15,7 +15,6 @@
 <img align="center" alt="CSS 3" rel="stylesheet" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="40" height="40">
 <img align="center" alt="MySQL" rel="stylesheet" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40">
 <img align="center" alt="React" rel="stylesheet" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40">
-<img align="center" alt="Material Ui" rel="stylesheet" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="40" height="40">
 </div>
 
 ##
