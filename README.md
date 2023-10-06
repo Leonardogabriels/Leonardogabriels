@@ -1,5 +1,9 @@
 
 ## Olá! Eu sou o Léo !
+
+Desenvolvedor e eterno estudante 
+
+<h3> Esssas são algumas stacks que tenho conhecimento </h1>
 <div>
   <a href="https://github.com/Leonardogabriels">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Leonardogabriels&show_icons=true&theme=radical&include_all_commits=false&count_private=true&rank_icon=github"/>
