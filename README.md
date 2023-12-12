@@ -1,7 +1,7 @@
 
 ## Olá! Eu sou o Léo !
 
-Desenvolvedor e eterno estudante 
+Desenvolvedor Java e eterno estudante 
 
 <h3> Essas são algumas stacks que tenho conhecimento </h1>
 <div>
@@ -13,11 +13,11 @@ Desenvolvedor e eterno estudante
 <div style= "display: inline_block"><br/>
 <img align="center" alt="Git" rel="stylesheet" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40">
 <img align="center" alt="Java" rel="stylesheet" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40">
-<img align="center" alt="JavaScript" rel="stylesheet" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40">
-<img align="center" alt="HTML 5" rel="stylesheet" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="40" height="40">
-<img align="center" alt="CSS 3" rel="stylesheet" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="40" height="40">
+<img align="center" alt="spring" rel="stylesheet" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40">
 <img align="center" alt="MySQL" rel="stylesheet" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40">
-<img align="center" alt="React" rel="stylesheet" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40">
+<img align="center" alt="HTML 5" rel="stylesheet" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="40" height="40">
+<img align="center" alt="codeigniter 3" rel="stylesheet" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain-wordmark.svg" width="40" height="40">
+<img align="center" alt="php" rel="stylesheet" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40">
 
 </div>
 
