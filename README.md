@@ -7,7 +7,8 @@ Desenvolvedor Java e eterno estudante
 <div>
   <a href="https://github.com/Leonardogabriels">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Leonardogabriels&show_icons=true&theme=radical&include_all_commits=false&count_private=true&rank_icon=github"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leonardogabriels&layout=compact&langs_count=10&theme=radical"/>                                                                                             
+ 
+  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 </div>
 
 <div style= "display: inline_block"><br/>
