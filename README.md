@@ -1,7 +1,7 @@
 
 ## Olá! Eu sou o Léo !
 
-Desenvolvedor Java e eterno estudante 
+Software Developer Java <img align="center" alt="Java" rel="stylesheet" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="25" height="25">
 
 <h3> Essas são algumas stacks que tenho conhecimento </h1>
 <div>
